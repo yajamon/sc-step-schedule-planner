@@ -1,0 +1,51 @@
+name	kind	description	cost-vo	cost-da	cost-vi	cost-me	cost-sp
+Voアピール3	skill
+Voアピール4	skill
+Voアピール5	skill
+Voアピール6	skill
+Voアピール7	skill
+Daアピール3	skill
+Daアピール4	skill
+Daアピール5	skill
+Daアピール6	skill
+Daアピール7	skill
+Viアピール3	skill
+Viアピール4	skill
+Viアピール5	skill
+Viアピール6	skill
+Viアピール7	skill
+Exアピール7	skill
+VoDaViアピール7	skill
+Vo+30%	skill
+Vo+40%	skill
+Vo+50%	skill
+Vo+60%	skill
+Vo+70%	skill
+Da+30%	skill
+Da+40%	skill
+Da+50%	skill
+Da+60%	skill
+Da+70%	skill
+Vi+30%	skill
+Vi+40%	skill
+Vi+50%	skill
+Vi+60%	skill
+Vi+70%	skill
+VoDaVi+60%&思い出ゲージ+10%	skill
+VoDaVi+65%&思い出ゲージ+15%	skill
+リアクション回避+10%	skill
+エントリーライブ成功	abillity
+Rythmic Diva	abillity	すべてのアピール値を+2%Up
+スマイルアリーナ	abillity	アピール値10%UP[ダメージを受けるまで]
+Dreaming My Way	abillity	アピール値最大10%UP　[メンタルが少ないほど効果UP]
+New Face! TOP VOCALIST	abillity	Vocalの上限値+100
+New Face! TOP DANCER	abillity	Danceの上限値+100
+New Face! TOP EXPRESSER	abillity	Visualの上限値+100
+ラブレターのAnswer──	abillity	フェスユニットの編成時に全基礎能力へのボーナスを+5%
+なんどでも唄おう	abillity	アピール値最大5%UP　[メンタルが多いほど効果UP]
+トップスターは1曲だけ	abillity	アピール値最大10%UP　[経過ターンが長いほど効果UP]
+流星スターランキング	abillity	アピール値最大5%UP　[思い出ゲージが多いほど効果UP]
+なないろ歌合戦	abillity	すべてのアピール値を+3%UP
+週刊プリズムメロディーズ	abillity	すべてのアピール値を+3%UP
+TOP SONGS	abillity	すべてのアピール値を+3%UP
+エキシビションマッチ成功	abillity	フェスユニットの編成時に全基礎能力へのボーナスを+5%
