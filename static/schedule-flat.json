@@ -1,0 +1,385 @@
+{
+   "table": [
+      {
+         "season": 1,
+         "week": 1,
+         "work": "1",
+         "work_name": "ビギナーズ！"
+      },{
+         "season": 1,
+         "week": 2,
+         "work": "1",
+         "work_name": "ビギナーズ！"
+      },{
+         "season": 1,
+         "week": 3,
+         "work": "1",
+         "work_name": "ビギナーズ！"
+      },{
+         "season": 1,
+         "week": 4,
+         "work": "1",
+         "work_name": "ビギナーズ！"
+      },{
+         "season": 1,
+         "week": 5,
+         "work": "1",
+         "work_name": "ビギナーズ！"
+      },{
+         "season": 1,
+         "week": 6,
+         "work": "1",
+         "work_name": "ビギナーズ！"
+      },{
+         "season": 1,
+         "week": 7,
+         "work": "2",
+         "work_name": "エントリーライブ"
+      },{
+         "season": 2,
+         "week": 1,
+         "work": "3",
+         "work_name": "探索！旬なアイドル大百科"
+      },{
+         "season": 2,
+         "week": 1,
+         "work": "4",
+         "work_name": "明日のアイドル一番星"
+      },{
+         "season": 2,
+         "week": 2,
+         "work": "3",
+         "work_name": "探索！旬なアイドル大百科"
+      },{
+         "season": 2,
+         "week": 3,
+         "work": "3",
+         "work_name": "探索！旬なアイドル大百科"
+      },{
+         "season": 2,
+         "week": 4,
+         "work": "5",
+         "work_name": "歌ウンジャNIGHT"
+      },{
+         "season": 2,
+         "week": 4,
+         "work": "6",
+         "work_name": "アイドル十八番うた自慢"
+      },{
+         "season": 2,
+         "week": 5,
+         "work": "7",
+         "work_name": "とどけ！オトメ☆ファンファーレ"
+      },{
+         "season": 2,
+         "week": 5,
+         "work": "8",
+         "work_name": "フェイバリットに煌めいて♥"
+      },{
+         "season": 2,
+         "week": 6,
+         "work": "9",
+         "work_name": "大捜索！アイドル百科"
+      },{
+         "season": 2,
+         "week": 7,
+         "work": "9",
+         "work_name": "大捜索！アイドル百科"
+      },{
+         "season": 2,
+         "week": 8,
+         "work": "10",
+         "work_name": "爆アド街角天国"
+      },{
+         "season": 2,
+         "week": 9,
+         "work": "10",
+         "work_name": "爆アド街角天国"
+      },{
+         "season": 2,
+         "week": 9,
+         "work": "11",
+         "work_name": "今がキラキラ！思いッきりアイドル"
+      },{
+         "season": 2,
+         "week": 10,
+         "work": "10",
+         "work_name": "爆アド街角天国"
+      },{
+         "season": 2,
+         "week": 10,
+         "work": "12",
+         "work_name": "Rhythmic Diva"
+      },{
+         "season": 3,
+         "week": 1,
+         "work": "13",
+         "work_name": "ヒートチャートX"
+      },{
+         "season": 3,
+         "week": 1,
+         "work": "14",
+         "work_name": "NEW BE@T"
+      },{
+         "season": 3,
+         "week": 2,
+         "work": "13",
+         "work_name": "ヒートチャートX"
+      },{
+         "season": 3,
+         "week": 2,
+         "work": "15",
+         "work_name": "ハッピー☆元気Show☆パーリータイム"
+      },{
+         "season": 3,
+         "week": 3,
+         "work": "13",
+         "work_name": "ヒートチャートX"
+      },{
+         "season": 3,
+         "week": 4,
+         "work": "16",
+         "work_name": "アイドル☆ウォー！"
+      },{
+         "season": 3,
+         "week": 5,
+         "work": "16",
+         "work_name": "アイドル☆ウォー！"
+      },{
+         "season": 3,
+         "week": 5,
+         "work": "17",
+         "work_name": "夕方ワイド　アイドル一番！"
+      },{
+         "season": 3,
+         "week": 6,
+         "work": "16",
+         "work_name": "アイドル☆ウォー！"
+      },{
+         "season": 3,
+         "week": 6,
+         "work": "18",
+         "work_name": "スマイルアリーナ"
+      },{
+         "season": 3,
+         "week": 7,
+         "work": "19",
+         "work_name": "24:05pm"
+      },{
+         "season": 3,
+         "week": 7,
+         "work": "20",
+         "work_name": "HOPPING JAM"
+      },{
+         "season": 3,
+         "week": 8,
+         "work": "19",
+         "work_name": "24:05pm"
+      },{
+         "season": 3,
+         "week": 8,
+         "work": "21",
+         "work_name": "iDOLBuffet アイドルビュッフェ"
+      },{
+         "season": 3,
+         "week": 9,
+         "work": "19",
+         "work_name": "24:05pm"
+      },{
+         "season": 3,
+         "week": 9,
+         "work": "22",
+         "work_name": "Dreaming My Way"
+      },{
+         "season": 3,
+         "week": 10,
+         "work": "23",
+         "work_name": "月曜日は出張中"
+      },{
+         "season": 3,
+         "week": 11,
+         "work": "23",
+         "work_name": "月曜日は出張中"
+      },{
+         "season": 3,
+         "week": 11,
+         "work": "24",
+         "work_name": "POP-ON!"
+      },{
+         "season": 3,
+         "week": 12,
+         "work": "23",
+         "work_name": "月曜日は出張中"
+      },{
+         "season": 3,
+         "week": 12,
+         "work": "25",
+         "work_name": "SPOT LIGHTのせいにして・・・"
+      },{
+         "season": 3,
+         "week": 13,
+         "work": "26",
+         "work_name": "TOP VOCALIST"
+      },{
+         "season": 3,
+         "week": 13,
+         "work": "27",
+         "work_name": "TOP DANCER"
+      },{
+         "season": 3,
+         "week": 13,
+         "work": "28",
+         "work_name": "TOP EXPRESSER"
+      },{
+         "season": 3,
+         "week": 14,
+         "work": "29",
+         "work_name": "ラブレターのAnswer──"
+      },{
+         "season": 3,
+         "week": 14,
+         "work": "30",
+         "work_name": "踊っていいとも？ 増刊号"
+      },{
+         "season": 4,
+         "week": 1,
+         "work": "31",
+         "work_name": "O・NE・GA・I マリオネットガール"
+      },{
+         "season": 4,
+         "week": 2,
+         "work": "31",
+         "work_name": "O・NE・GA・I マリオネットガール"
+      },{
+         "season": 4,
+         "week": 3,
+         "work": "31",
+         "work_name": "O・NE・GA・I マリオネットガール"
+      },{
+         "season": 4,
+         "week": 3,
+         "work": "32",
+         "work_name": "なんどでも唄おう"
+      },{
+         "season": 4,
+         "week": 3,
+         "work": "33",
+         "work_name": "アイドルの女神様"
+      },{
+         "season": 4,
+         "week": 4,
+         "work": "34",
+         "work_name": "Sweet Sweet Live Time"
+      },{
+         "season": 4,
+         "week": 4,
+         "work": "35",
+         "work_name": "トップスターは1曲だけ"
+      },{
+         "season": 4,
+         "week": 5,
+         "work": "34",
+         "work_name": "Sweet Sweet Live Time"
+      },{
+         "season": 4,
+         "week": 5,
+         "work": "36",
+         "work_name": "LET'S SAY HELLO!!"
+      },{
+         "season": 4,
+         "week": 6,
+         "work": "34",
+         "work_name": "Sweet Sweet Live Time"
+      },{
+         "season": 4,
+         "week": 7,
+         "work": "37",
+         "work_name": "ステージあったまってますか？"
+      },{
+         "season": 4,
+         "week": 8,
+         "work": "37",
+         "work_name": "ステージあったまってますか？"
+      },{
+         "season": 4,
+         "week": 9,
+         "work": "37",
+         "work_name": "ステージあったまってますか？"
+      },{
+         "season": 4,
+         "week": 9,
+         "work": "38",
+         "work_name": "流星スターランキング"
+      },{
+         "season": 4,
+         "week": 9,
+         "work": "39",
+         "work_name": "オールアイドル感謝FESTIVAL"
+      },{
+         "season": 4,
+         "week": 10,
+         "work": "40",
+         "work_name": "HIGH POWER NO LIMIT!!"
+      },{
+         "season": 4,
+         "week": 11,
+         "work": "40",
+         "work_name": "HIGH POWER NO LIMIT!!"
+      },{
+         "season": 4,
+         "week": 11,
+         "work": "41",
+         "work_name": "なないろ歌合戦"
+      },{
+         "season": 4,
+         "week": 12,
+         "work": "40",
+         "work_name": "HIGH POWER NO LIMIT!!"
+      },{
+         "season": 4,
+         "week": 12,
+         "work": "42",
+         "work_name": "THE LEGEND"
+      },{
+         "season": 4,
+         "week": 13,
+         "work": "43",
+         "work_name": "七彩メモリーズ"
+      },{
+         "season": 4,
+         "week": 14,
+         "work": "44",
+         "work_name": "YEAH! YEAH! MUSIC SUNDAY"
+      },{
+         "season": 4,
+         "week": 15,
+         "work": "45",
+         "work_name": "#プライムアイドル"
+      },{
+         "season": 4,
+         "week": 16,
+         "work": "46",
+         "work_name": "お料理アイドルごはん"
+      },{
+         "season": 4,
+         "week": 17,
+         "work": "47",
+         "work_name": "週刊プリズムメロディーズ"
+      },{
+         "season": 4,
+         "week": 18,
+         "work": "48",
+         "work_name": "TOP SONGS"
+      },{
+         "season": 4,
+         "week": 18,
+         "work": "49",
+         "work_name": "歌姫楽宴"
+      },{
+         "season": 4,
+         "week": 19,
+         "work": "50",
+         "work_name": "エキシビションマッチ"
+      }
+   ]
+}

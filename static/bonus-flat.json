@@ -1,0 +1,464 @@
+{
+   "table": [
+      {
+         "name": "name",
+         "kind": "kind",
+         "description": "description",
+         "cost-vo": "cost-vo",
+         "cost-da": "cost-da",
+         "cost-vi": "cost-vi",
+         "cost-me": "cost-me",
+         "cost-sp": "cost-sp"
+      },{
+         "name": "Voアピール3",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Voアピール4",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Voアピール5",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Voアピール6",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Voアピール7",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Daアピール3",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Daアピール4",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Daアピール5",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Daアピール6",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Daアピール7",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Viアピール3",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Viアピール4",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Viアピール5",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Viアピール6",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Viアピール7",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Exアピール7",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "VoDaViアピール7",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vo+30%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vo+40%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vo+50%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vo+60%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vo+70%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Da+30%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Da+40%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Da+50%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Da+60%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Da+70%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vi+30%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vi+40%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vi+50%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vi+60%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Vi+70%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "VoDaVi+60%&思い出ゲージ+10%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "VoDaVi+65%&思い出ゲージ+15%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "リアクション回避+10%",
+         "kind": "skill",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "エントリーライブ成功",
+         "kind": "abillity",
+         "description": null,
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Rythmic Diva",
+         "kind": "abillity",
+         "description": "すべてのアピール値を+2%Up",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "スマイルアリーナ",
+         "kind": "abillity",
+         "description": "アピール値10%UP[ダメージを受けるまで]",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "Dreaming My Way",
+         "kind": "abillity",
+         "description": "アピール値最大10%UP　[メンタルが少ないほど効果UP]",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "New Face! TOP VOCALIST",
+         "kind": "abillity",
+         "description": "Vocalの上限値+100",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "New Face! TOP DANCER",
+         "kind": "abillity",
+         "description": "Danceの上限値+100",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "New Face! TOP EXPRESSER",
+         "kind": "abillity",
+         "description": "Visualの上限値+100",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "ラブレターのAnswer──",
+         "kind": "abillity",
+         "description": "フェスユニットの編成時に全基礎能力へのボーナスを+5%",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "なんどでも唄おう",
+         "kind": "abillity",
+         "description": "アピール値最大5%UP　[メンタルが多いほど効果UP]",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "トップスターは1曲だけ",
+         "kind": "abillity",
+         "description": "アピール値最大10%UP　[経過ターンが長いほど効果UP]",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "流星スターランキング",
+         "kind": "abillity",
+         "description": "アピール値最大5%UP　[思い出ゲージが多いほど効果UP]",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "なないろ歌合戦",
+         "kind": "abillity",
+         "description": "すべてのアピール値を+3%UP",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "週刊プリズムメロディーズ",
+         "kind": "abillity",
+         "description": "すべてのアピール値を+3%UP",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "TOP SONGS",
+         "kind": "abillity",
+         "description": "すべてのアピール値を+3%UP",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      },{
+         "name": "エキシビションマッチ成功",
+         "kind": "abillity",
+         "description": "フェスユニットの編成時に全基礎能力へのボーナスを+5%",
+         "cost-vo": null,
+         "cost-da": null,
+         "cost-vi": null,
+         "cost-me": null,
+         "cost-sp": null
+      }
+   ]
+}
