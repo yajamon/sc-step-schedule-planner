@@ -18,16 +18,18 @@ export function AuditionOrLive(props: Props) {
         </div>
       </div>
       <div class="flex flex-row">
-        <div class="flex-auto">ファン数: +{fan}</div>
-        <div class="flex-auto">歌唱力: +{vo}</div>
-        <div class="flex-auto">安定感: +{da}</div>
-        <div class="flex-auto">表現力: +{vi}</div>
-        <div class="flex-auto">集中力: +{me}</div>
-        <div class="flex-auto">団結力: +{sp}</div>
-      </div>
-      <div class="flex flex-row">
-        <div class="flex-auto">親愛度： +{love}</div>
-        <div class="flex-auto">ボーナス：{bonus}</div>
+        <div class="flex flex-col">
+          <div class="flex-auto">ファン数: +{fan}</div>
+          <div class="flex-auto">歌唱力: +{vo}</div>
+          <div class="flex-auto">安定感: +{da}</div>
+          <div class="flex-auto">表現力: +{vi}</div>
+          <div class="flex-auto">集中力: +{me}</div>
+          <div class="flex-auto">団結力: +{sp}</div>
+        </div>
+        <div class="flex flex-col">
+          <div class="flex-auto">親愛度： +{love}</div>
+          <div class="flex-auto">ボーナス：{bonus}</div>
+        </div>
       </div>
     </div>
   );
