@@ -6,6 +6,27 @@ export const handler: Handlers = {
   },
 };
 
+interface AuditionOrLiveRecord {
+  id: string;
+  kind: string;
+  name: string;
+  difficulty: number;
+  fan: number;
+  vo: number;
+  da: number;
+  vi: number;
+  me: number;
+  sp: number;
+  love: number;
+  bonus: string;
+}
+interface CalendarUnit {
+  season: number;
+  week: number;
+  works: AuditionOrLiveRecord[];
+}
+type Calendar = CalendarUnit[];
+
 const schedule = [
   {
     season: 1,
