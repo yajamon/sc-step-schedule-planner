@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>SC S.T.E.P. スケジュールプランナー</title>
       </Head>
-      <div class="p-4 items-center dark:bg-gray-800 dark:text-white">
+      <div class="p-4 items-center bg-gray-300 dark:bg-gray-800 dark:text-white">
         <AuditionAndLive calendar={calendar} />
       </div>
     </>
