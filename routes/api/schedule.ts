@@ -27,7 +27,7 @@ interface CalendarUnit {
 }
 type Calendar = CalendarUnit[];
 
-const schedule = [
+const schedule: Calendar = [
   {
     season: 1,
     week: 1,
