@@ -180,12 +180,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Viアピール3",
       },
-    ],
-  },
-  {
-    season: 2,
-    week: 1,
-    works: [
       {
         id: "4",
         kind: "オーディション",
@@ -260,12 +254,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Vo+30%",
       },
-    ],
-  },
-  {
-    season: 2,
-    week: 4,
-    works: [
       {
         id: "6",
         kind: "オーディション",
@@ -300,12 +288,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Vi+30%",
       },
-    ],
-  },
-  {
-    season: 2,
-    week: 5,
-    works: [
       {
         id: "8",
         kind: "オーディション",
@@ -400,12 +382,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Viアピール4",
       },
-    ],
-  },
-  {
-    season: 2,
-    week: 9,
-    works: [
       {
         id: "11",
         kind: "オーディション",
@@ -440,12 +416,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Viアピール4",
       },
-    ],
-  },
-  {
-    season: 2,
-    week: 10,
-    works: [
       {
         id: "12",
         kind: "ライブ",
@@ -480,12 +450,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Daアピール4",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 1,
-    works: [
       {
         id: "14",
         kind: "オーディション",
@@ -520,12 +484,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Daアピール4",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 2,
-    works: [
       {
         id: "15",
         kind: "オーディション",
@@ -600,12 +558,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Viアピール5",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 5,
-    works: [
       {
         id: "17",
         kind: "オーディション",
@@ -640,12 +592,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Viアピール5",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 6,
-    works: [
       {
         id: "18",
         kind: "ライブ",
@@ -680,12 +626,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Daアピール5",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 7,
-    works: [
       {
         id: "20",
         kind: "オーディション",
@@ -720,12 +660,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Daアピール5",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 8,
-    works: [
       {
         id: "21",
         kind: "オーディション",
@@ -760,12 +694,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Daアピール5",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 9,
-    works: [
       {
         id: "22",
         kind: "ライブ",
@@ -820,12 +748,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Voアピール6",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 11,
-    works: [
       {
         id: "24",
         kind: "オーディション",
@@ -860,12 +782,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Voアピール6",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 12,
-    works: [
       {
         id: "25",
         kind: "オーディション",
@@ -900,12 +816,6 @@ export const calendar: Calendar = [
         love: 1,
         bonus: "New Face! TOP VOCALIST",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 13,
-    works: [
       {
         id: "27",
         kind: "ライブ",
@@ -920,12 +830,6 @@ export const calendar: Calendar = [
         love: 1,
         bonus: "New Face! TOP DANCER",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 13,
-    works: [
       {
         id: "28",
         kind: "ライブ",
@@ -960,12 +864,6 @@ export const calendar: Calendar = [
         love: 1,
         bonus: "ラブレターのAnswer──",
       },
-    ],
-  },
-  {
-    season: 3,
-    week: 14,
-    works: [
       {
         id: "30",
         kind: "オーディション",
@@ -1040,12 +938,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Daアピール6",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 3,
-    works: [
       {
         id: "32",
         kind: "ライブ",
@@ -1060,12 +952,6 @@ export const calendar: Calendar = [
         love: 1,
         bonus: "なんどでも唄おう",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 3,
-    works: [
       {
         id: "33",
         kind: "オーディション",
@@ -1100,12 +986,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Voアピール7",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 4,
-    works: [
       {
         id: "35",
         kind: "ライブ",
@@ -1140,12 +1020,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Voアピール7",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 5,
-    works: [
       {
         id: "36",
         kind: "オーディション",
@@ -1240,12 +1114,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "Viアピール6",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 9,
-    works: [
       {
         id: "38",
         kind: "ライブ",
@@ -1260,12 +1128,6 @@ export const calendar: Calendar = [
         love: 1,
         bonus: "流星スターランキング",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 9,
-    works: [
       {
         id: "39",
         kind: "オーディション",
@@ -1320,12 +1182,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "VoDaViアピール7",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 11,
-    works: [
       {
         id: "41",
         kind: "ライブ",
@@ -1360,12 +1216,6 @@ export const calendar: Calendar = [
         love: 0,
         bonus: "VoDaViアピール7",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 12,
-    works: [
       {
         id: "42",
         kind: "オーディション",
@@ -1500,12 +1350,6 @@ export const calendar: Calendar = [
         love: 1,
         bonus: "TOP SONGS",
       },
-    ],
-  },
-  {
-    season: 4,
-    week: 18,
-    works: [
       {
         id: "49",
         kind: "オーディション",
