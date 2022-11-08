@@ -44,9 +44,9 @@ interface Schedule {
   works: WorkRecord[];
 }
 
-let result: Map<[number, number], Schedule> = new Map();
+let result: Map<string, Schedule> = new Map();
 for (let record of schedule) {
-  const key: [number, number] = [record.season, record.week];
+  const key = `${record.season}-${record.week.toString().padStart(2, "0")}`;
   if (!result.has(key)) {
     result.set(key, {
       season: record.season,
