@@ -8,7 +8,7 @@ export function AuditionOrLive(props: Props) {
   const { name, kind, difficulty } = props.record;
   const { fan, vo, da, vi, me, sp, love, bonus } = props.record;
   return (
-    <div class="flex flex-col dark:bg-gray-700">
+    <div class="flex flex-col flex-1 p-2 dark:bg-gray-700">
       <div class="flex flex-row">
         <div class="flex-none p-3 w-44">
           {kind}

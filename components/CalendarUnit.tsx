@@ -11,7 +11,7 @@ export function CalendarUnit(props: { unit: CalendarUnitData }) {
       <div>
         シーズン{props.unit.season}、第{props.unit.week}週
       </div>
-      <div class="p-2 dark:bg-gray-800">{works}</div>
+      <div class="flex p-2 gap-2 dark:bg-gray-800">{works}</div>
     </div>
   );
 }
