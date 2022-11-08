@@ -7,11 +7,11 @@ export function CalendarUnit(props: { unit: CalendarUnitData }) {
     <AuditionOrLive record={record} />
   ));
   return (
-    <div class="p-3 dark:bg-gray-700">
+    <div class="p-3 bg-white dark:bg-gray-700">
       <div>
         シーズン{props.unit.season}、第{props.unit.week}週
       </div>
-      <div class="flex p-2 gap-2 dark:bg-gray-800">{works}</div>
+      <div class="flex p-2 gap-2 bg-gray-200 dark:bg-gray-800">{works}</div>
     </div>
   );
 }
