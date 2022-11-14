@@ -18,8 +18,8 @@ export function AuditionOrLive(props: Props) {
         <div class="flex-auto">表現力: +{vi}</div>
         <div class="flex-auto">集中力: +{me}</div>
         <div class="flex-auto">団結力: +{sp}</div>
-        <div class="flex-auto">親愛度： +{love}</div>
-        <div class="flex-auto">ボーナス：{bonus}</div>
+        <div class="flex-auto">親愛度: +{love}</div>
+        <div class="flex-auto">ボーナス: {bonus}</div>
       </div>
     </div>
   );
